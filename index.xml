@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bridge Project </title>
+    <link>http://michaelglhx.github.io/BridgeBlog/</link>
+    <language>en-us</language>
+    <author>Shekhar Gulati</author>
+    <rights>(C) 2017</rights>
+    <updated>2017-04-18 03:59:27 &#43;0800 CST</updated>
+
+    
+      
+        <item>
+          <title>origin</title>
+          <link>http://michaelglhx.github.io/BridgeBlog/post/origin/</link>
+          <pubDate>Tue, 18 Apr 2017 03:59:27 CST</pubDate>
+          <author>Shekhar Gulati</author>
+          <guid>http://michaelglhx.github.io/BridgeBlog/post/origin/</guid>
+          <description></description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
