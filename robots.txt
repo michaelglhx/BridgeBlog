@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://michaelglhx.github.io/Bridge/sitemap.xml
+Sitemap: http://michaelglhx.github.io/BridgeBlog/sitemap.xml
