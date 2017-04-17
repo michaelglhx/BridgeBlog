@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://michaelglhx.github.io/BridgeBlog/post/origin/</loc>
+    <loc>https://michaelglhx.github.io/BridgeBlog/post/origin/</loc>
     <lastmod>2017-04-18T03:59:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://michaelglhx.github.io/BridgeBlog/</loc>
-    <lastmod>2017-04-18T03:59:27+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://michaelglhx.github.io/BridgeBlog/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://michaelglhx.github.io/BridgeBlog/post/</loc>
+    <loc>https://michaelglhx.github.io/BridgeBlog/</loc>
     <lastmod>2017-04-18T03:59:27+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://michaelglhx.github.io/BridgeBlog/tags/</loc>
+    <loc>https://michaelglhx.github.io/BridgeBlog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelglhx.github.io/BridgeBlog/post/</loc>
+    <lastmod>2017-04-18T03:59:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelglhx.github.io/BridgeBlog/tags/</loc>
     <priority>0</priority>
   </url>
   
