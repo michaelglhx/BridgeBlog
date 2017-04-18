@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Bridge Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 18 Apr 2017 20:06:15 +0800</lastBuildDate>
     
 	<atom:link href="https://michaelglhx.github.io/BridgeBlog/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://michaelglhx.github.io/BridgeBlog/categories/about/</link>
+      <pubDate>Tue, 18 Apr 2017 20:06:15 +0800</pubDate>
+      
+      <guid>https://michaelglhx.github.io/BridgeBlog/categories/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Food For Thoughts</title>
