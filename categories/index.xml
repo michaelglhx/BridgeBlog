@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bridge Project </title>
+    <title>Categories on Bridge Project</title>
     <link>https://michaelglhx.github.io/BridgeBlog/categories/</link>
+    <description>Recent content in Categories on Bridge Project</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Michael</author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
     
-
+	<atom:link href="https://michaelglhx.github.io/BridgeBlog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Food For Thoughts</title>
+      <link>https://michaelglhx.github.io/BridgeBlog/categories/food-for-thoughts/</link>
+      <pubDate>Tue, 18 Apr 2017 03:59:27 +0800</pubDate>
+      
+      <guid>https://michaelglhx.github.io/BridgeBlog/categories/food-for-thoughts/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

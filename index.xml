@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bridge Project </title>
+    <title>Bridge Project</title>
     <link>https://michaelglhx.github.io/BridgeBlog/</link>
+    <description>Recent content on Bridge Project</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Michael</author>
-    <rights>(C) 2017</rights>
-    <updated>2017-04-18 03:59:27 &#43;0800 CST</updated>
-
+    <lastBuildDate>Tue, 18 Apr 2017 03:59:27 +0800</lastBuildDate>
     
-      
-        <item>
-          <title>origin</title>
-          <link>https://michaelglhx.github.io/BridgeBlog/post/origin/</link>
-          <pubDate>Tue, 18 Apr 2017 03:59:27 CST</pubDate>
-          <author>Michael</author>
-          <guid>https://michaelglhx.github.io/BridgeBlog/post/origin/</guid>
-          <description></description>
-        </item>
-      
+	<atom:link href="https://michaelglhx.github.io/BridgeBlog/index.xml" rel="self" type="application/rss+xml" />
     
-
+    
+    <item>
+      <title>Origin</title>
+      <link>https://michaelglhx.github.io/BridgeBlog/post/origin/</link>
+      <pubDate>Tue, 18 Apr 2017 03:59:27 +0800</pubDate>
+      
+      <guid>https://michaelglhx.github.io/BridgeBlog/post/origin/</guid>
+      <description>I always believe the gulf bewteen bio and electro world will be bridged one day. One of the illustrations is the Ghost in Shell. As I put my faith into it, considering whether the bridge is possible in theory or not is crucial and guiding.</description>
+    </item>
+    
   </channel>
 </rss>
